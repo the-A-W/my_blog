@@ -1,6 +1,5 @@
 # ========== Profile ========== #
 # avatar
-language: zh-CN
 avatar: '/assets/favicon_1.jpg'
 # author name
 author: the_A_W
@@ -177,7 +176,7 @@ favicon: /assets/favicon_1.png
 copyright:
   enable: true
   # https://creativecommons.org/
-  license: '本文采用<a rel="license" href="http://creativecommons.org/licenses/by-nc/4.0/">知识共享署名-非商业性使用 4.0 国际许可协议</a>进行许可'
+  license: '版权所有，搬运请标注原文地址！'
 # Website Approve
 website_approve:
   enable: false
@@ -216,9 +215,7 @@ math:
 # Please read README.md to enable this option correctly.
 custom_font:
   enable: false
-  # Font name, use ':' to select font weight and font style
   name: 'Noto Sans SC:n3,n4,n5,n7'
-  # Font CDN url
   url: 'https://fonts.googleapis.cnpmjs.org/css2?family=Noto+Sans+SC:wght@300;400;500;700&display=swap'
 
 # ========== Theme Dev ========== #
