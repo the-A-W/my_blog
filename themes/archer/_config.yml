@@ -1,6 +1,7 @@
 # ========== Profile ========== #
 # avatar
-avatar: https://avatars.githubusercontent.com/u/130951576?v=4
+language: zh-CN
+avatar: '/assets/favicon_1.jpg'
 # author name
 author: the_A_W
 # signature
@@ -10,9 +11,9 @@ social:
   email: w2742082845@163.com
   github: //github.com/the-A-W
   # wechat should be a path of qr-code image path
-  wechat: /assets/example_qr.png
+  wechat: '/assets/wechat_qr.png'
   # qq should be a path of qr-code image path
-  qq: 
+  qq: '/assets/qq_qr.png'
   telegram: 
   weibo: 
   zhihu: 
@@ -171,7 +172,7 @@ CNZZ_analytics:
 
 # ========== Others ========== #
 # Favicon
-favicon: /assets/favicon.ico
+favicon: /assets/favicon_1.png
 # Post copyright
 copyright:
   enable: true
