@@ -2,12 +2,12 @@
 # avatar
 avatar: https://avatars.githubusercontent.com/u/130951576?v=4
 # author name
-author: fi3ework
+author: the_A_W
 # signature
 signature: witness me
 # SNS (you can custom the order)
 social:
-  email: 12345@qq.com
+  email: w2742082845@163.com
   github: //github.com/the-A-W
   # wechat should be a path of qr-code image path
   wechat: /assets/example_qr.png
@@ -24,7 +24,7 @@ social:
   segmentFault: 
   juejin: 
   v2ex: 
-  bilibili: 
+  bilibili: https://space.bilibili.com/355551240?spm_id_from=333.1007.0.0
   linkedin: 
   steam: 
   others: 
@@ -62,7 +62,7 @@ profile_links:
 
 # ========== Site ========== #
 # title of the site (good for SEO)
-SEO_title: fi3ework's Studio
+SEO_title: the_A_W
 # keywords for site (good for SEO)
 SEO_keywords:
   - hexo
