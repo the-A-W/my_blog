@@ -6,4 +6,7 @@ tags: hey
 
 视频测试
 
-<iframe src="//player.bilibili.com/player.html?aid=740191259&bvid=BV1yk4y1a74M&cid=1102251171&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" height="500px" width="100%"> </iframe>
+<iframe id="spkj" src="https://player.bilibili.com/player.html?aid=BV1h8411c7zk&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width=100%> </iframe>
+<script type="text/javascript">  
+document.getElementById("spkj").style.height=document.getElementById("spkj").scrollWidth*0.76+"px";
+</script>
