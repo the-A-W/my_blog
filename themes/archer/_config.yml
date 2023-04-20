@@ -8,7 +8,7 @@ signature: witness me
 # SNS (you can custom the order)
 social:
   email: 12345@qq.com
-  github: //github.com/fi3ework
+  github: //github.com/the-A-W
   # wechat should be a path of qr-code image path
   wechat: /assets/example_qr.png
   # qq should be a path of qr-code image path
@@ -69,9 +69,9 @@ SEO_keywords:
   - 'hexo-theme'
   - 'hexo-blog'
 # main title shown in header image
-main_title: fi3ework's Studio.
+main_title: the_A_W_blog
 # subtitle
-subtitle: it's better to burn out than to fade away
+subtitle: 行己所爱 爱己所行
 # site haeder image
 site_header_image: '/intro/index-bg.jpg'
 # post haeder image
