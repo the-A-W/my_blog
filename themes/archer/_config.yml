@@ -85,7 +85,7 @@ truncate_length: 300
 # Show read more button if using excerpt or abstract to display abstracts in index page
 read_more_button: false
 # Enable toc
-toc: true
+toc: 2
 # Word count & Reading time
 reading_info: true
 # Intro height (the default is 50 percents of the screen, you can input other number)
