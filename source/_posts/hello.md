@@ -1,8 +1,8 @@
 ---
 title: 坦克大战（IKUN版）
 date: 2023-04-20 22:19:13
-tags: hey
-categories: haha
+tags: [game make,教程]
+categories: C
 ---
 # C 语言坦克大战（IKUN 版）
 
